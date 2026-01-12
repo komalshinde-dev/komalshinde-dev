@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Komal Shinde
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=Full-Stack+MERN+Developer...;DSA+Problem+Solver...;Machine+Learning+Enthusiast...)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full-Stack+MERN+Developer;DSA+Problem+Solver;Machine+Learning+Enthusiast)
 
 
 ---
@@ -42,8 +42,8 @@
 ---
 
 ## 🚀 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shindekomal-dev&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shindekomal-dev&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=komalshinde-dev&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=komalshinde-dev&layout=compact&theme=radical)
 
 ---
 ## 📫 Connect with Me
