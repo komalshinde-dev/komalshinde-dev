@@ -1,7 +1,6 @@
-# 👋 Hi, I'm Komal 
-Full-Stack MERN Developer | DSA Enthusiast | Web Dev & Machine Learning Practitioner  
+# 👋 Hi, I'm Komal
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=8000FF&center=true&vCenter=true&width=500&lines=Building+web+apps...;Solving+algorithms...;Exploring+ML+AI...)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&lines=Building+web+apps...;Solving+algorithms...;Exploring+ML+AI...)
 
 
 ---
