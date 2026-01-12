@@ -39,11 +39,6 @@
 - **Open-Source Contributions**  
 
 ---
-
-## 🚀 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=komalshinde-dev&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=komalshinde-dev&layout=compact&theme=radical)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shinde-komal) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_komal.75?igsh=MTF6dDRpaWt4aW8zMg==) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shindekomal0765@gmail.com)
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
