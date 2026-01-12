@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Komal 
 Full-Stack MERN Developer | DSA Enthusiast | Web Dev & Machine Learning Practitioner  
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&lines=Building+web+apps...;Solving+algorithms...;Exploring+ML+AI...)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=8000FF&center=true&vCenter=true&width=500&lines=Building+web+apps...;Solving+algorithms...;Exploring+ML+AI...)
+
 
 ---
 
@@ -42,15 +43,15 @@ Full-Stack MERN Developer | DSA Enthusiast | Web Dev & Machine Learning Practiti
 ---
 
 ## 🚀 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shindekomal-dev&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shindekomal-dev&layout=compact&theme=radical)
 
 ---
-
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://yourportfolio.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shinde-komal)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_komal.75?igsh=MTF6dDRpaWt4aW8zMg==)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shindekomal0765@gmail.com)
 
 ---
 
