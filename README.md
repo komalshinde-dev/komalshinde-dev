@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Komal
+# 👋 Hi, I'm Komal Shinde
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&lines=Building+web+apps...;Solving+algorithms...;Exploring+ML+AI...)
 
