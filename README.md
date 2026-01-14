@@ -35,8 +35,7 @@
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-9B59B6?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-3498DB?style=for-the-badge)
 - Advanced **MERN Projects**  
-- **Deep Learning & NLP Applications**  
-- **Open-Source Contributions**  
+- **Deep Learning & NLP Applications**    
 
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shinde-komal) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_komal.75?igsh=MTF6dDRpaWt4aW8zMg==) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shindekomal0765@gmail.com)
