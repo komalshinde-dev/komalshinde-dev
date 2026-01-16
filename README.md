@@ -3,12 +3,10 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full-Stack+MERN+Developer;Machine+Learning+Engineer)
 
 ---
-
 ## About Me
 - Passionate about building **web applications** and solving **algorithmic challenges**.  
 - Always exploring **Machine Learning** and **AI** to make smarter apps.  
 - Lifelong learner and **open-source contributor**.  
-
 ---
 
 ## Skills
